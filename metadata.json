@@ -1,0 +1,9 @@
+{
+  "name": "Ultra Edits",
+  "description": "Premium mobile video editor with professional multi-tier timeline, transitions, sound effects, and AI video helpers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
